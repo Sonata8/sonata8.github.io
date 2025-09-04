@@ -1,1 +1,1 @@
-# sonata8.github.io/notes/
+# <https://sonata8.github.io/notes/>
